@@ -1,6 +1,28 @@
 # 고급 통계학 세미나
 https://heropy.blog/2017/09/30/markdown/
 
+# 대용량 데이터 삐르게 읽는 법
+| 패키지 | 함수 |
+|---|:---:|
+| `data.table` | fread |
+| `tidyverse` | readr |
+
+## jupyter notebook에서 Python과 R을 쓰면 편리~
+### 시각화
+Aesthetic mapping >> ggplot
+- ggplot( aes( x = , y= , color= , size= , alpha= , shape=) )
+
+[https://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings] 
+
+- Facets 데이터를 조건별로 보고 싶을 때
+
+[https://r4ds.had.co.nz/data-visualisation.html#facets]
+
+-geom [Geometric objectsJust try it]
+
+
+
+-------------------------------------------------------------------------
 # 제목 1
 ## 제목 2
 ### 제목 3
